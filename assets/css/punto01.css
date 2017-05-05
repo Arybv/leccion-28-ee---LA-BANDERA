@@ -1,4 +1,7 @@
-.contenedor01{
+section{
+  overflow: auto;
+}
+.contenedor02{
   width: auto;
   height: auto;
   background-color: #FFFFFF;
@@ -10,13 +13,12 @@
   height: 126px;
   float: left;
 }
-.yellow01{
-
+.yellow02{
   background-color: #FFFF00;
 }
-.blue01{
+.blue02{
   background-color: #0000BA;
 }
-.red01{
+.red02{
   background-color: #DC0000;
 }
