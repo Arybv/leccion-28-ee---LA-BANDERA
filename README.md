@@ -1,6 +1,6 @@
 # LA BANDERA
 ***Éste proyecto enmarca la clase de FLOAT***
-![bandera](assets/img/venezuela.svg.png)
+![bandera](assets/img/venezuela.ico)
 ### Encontraremos 4 ramas:
 'master' 'inicial' 'punto1' 'punto2'
 #### 1. master
