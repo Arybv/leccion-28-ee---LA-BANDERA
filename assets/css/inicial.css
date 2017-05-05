@@ -1,0 +1,19 @@
+.contenedor01{
+  width: auto;
+  height: auto;
+  background-color: #FFFFFF;
+  border: 1px solid #878787;
+}
+.bandera{
+  width: 150px;
+  height: 120px;
+}
+.yellow01{
+  background-color: #FFFF00;
+}
+.blue01{
+  background-color: #0000BA;
+}
+.red01{
+  background-color: #DC0000;
+}
